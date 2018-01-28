@@ -28,7 +28,7 @@ Here's one solution: http://ga-wdi-exercises.github.io/hyrule_potion_shop/
 
 (`styles.css` contains all the styling not relevant to flexbox. Feel free to look at it, but don't modify it!)
 
-### Steps to clone down and open.  
+### Steps to clone down and open
 
 1. Open up Terminal
 2. Change into your `exercises` directory
