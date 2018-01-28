@@ -2,7 +2,7 @@
 
 All the flexbox properties have been removed from `holygrail.css`. Fill in the blanks to make the website look nice and responsive again!
 
-(`styles.css` contains all the styling not relevant to flexbox. Feel free to look at it, but don't modify it!)
+**Only modify `holygrail.css`!**
 
 It should follow the concept of the [Holy Grail layout](https://mdn.mozillademos.org/files/3760/HolyGrailLayout.png).
 
@@ -18,10 +18,20 @@ div{
 
 ```css
 div{
-  background-color:blue;
+  background-color: blue;
 }
 ```
 
 Feel free to take a look at our solution at the link below -- but only peek at the CSS if you're really stuck!
 
 Here's one solution: http://ga-wdi-exercises.github.io/hyrule_potion_shop/
+
+(`styles.css` contains all the styling not relevant to flexbox. Feel free to look at it, but don't modify it!)
+
+### Steps to clone down and open.  
+
+1. Open up Terminal
+2. Change into your `exercises` directory
+3. `git clone https://git.generalassemb.ly/ga-wdi-exercises/hyrule_potion_shop.git`
+4. `cd hyrule_potion_shop` to change into the cloned down directory
+5. `code .` to open the directory you are currently located in VS Code
